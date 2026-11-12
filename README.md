@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Alperen 👋
 
-<!--
-**alperenefe26/alperenefe26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate Statistics student at Eskişehir Technical University, focusing on statistical modeling, data analysis, and machine learning.
 
-Here are some ideas to get you started:
+🔍 **Interests:**
+* Statistical Modeling & Data Analysis
+* Machine Learning & Explainable AI (XAI)
+* Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack:**
+* **Languages:** R, Python, SQL
+* **Tools:** RStudio, R Markdown, Jupyter Notebook, Git
+
+📫 **Connect with me:**
+* **Email:** [alperenefekuscu26@gmail.com](mailto:alperenefekuscu26@gmail.com)
